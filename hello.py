@@ -1,2 +1,4 @@
 def hello_world():
-    return "Hello World!"
+
+    # The output of the function should be "Hello World!"
+    pass
